@@ -4956,7 +4956,7 @@ bookshop {
         transition: all .4s ease 0s;
         opacity: 0;
         visibility: hidden;
-        background: linear-gradient(360deg, #1e1e1e 0, rgba(253, 254, 255, 0.085) 120.95%)
+        background: linear-gradient(360deg, rgb(12, 11, 42) 0, rgba(253, 254, 255, 0) 70.95%)
     }
 
     .c-project-card__image img {
