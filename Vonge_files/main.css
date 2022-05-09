@@ -3330,7 +3330,7 @@ bookshop {
         height: 0;
         padding-bottom: 100%;
         border-radius: 50%;
-        background: linear-gradient(90deg, #2d3031 0, #00050b 167%);
+        background: linear-gradient(90deg, #110e38 0,#17134d 167%);
         /* background: linear-gradient(90deg, #1495a7 0, #003687 167%); */
         transition: all .25s
     }
@@ -4468,7 +4468,7 @@ bookshop {
         border-radius: 50%;
         will-change: transform;
         /* background: linear-gradient(90deg, #1495a7 0, #003687 167%); */
-        background: black;
+        background: #110e38;
         transition: all .2s cubic-bezier(.215, .61, .355, 1)
     }
 
